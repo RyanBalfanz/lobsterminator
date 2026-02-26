@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="shellshock.png" alt="SHELLSHOCK — Code Name: Lobstermintor" width="400" />
+</p>
+
 <h1 align="center">🦞 Lobsterminator</h1>
 
 <p align="center">
