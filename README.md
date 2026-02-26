@@ -27,6 +27,14 @@
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="demo.svg" alt="Lobsterminator demo" width="800" />
+</p>
+
+---
+
 ## Quick Start
 
 #### One-Line Installer
